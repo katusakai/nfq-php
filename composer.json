@@ -1,0 +1,17 @@
+{
+    "name": "katu/php1",
+    "description": "NFQ homework for PHP1",
+    "authors": [
+        {
+            "name": "Tadas Janca",
+            "email": "tadasjanca@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "files": ["src/functions.php", "src/functions_strict.php"]
+    }
+    
+}
